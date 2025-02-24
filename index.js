@@ -1,1 +1,3 @@
-function introduction(name) {}
+function introduction(name) {
+  return `Hi my name is ${name}.`;
+}
