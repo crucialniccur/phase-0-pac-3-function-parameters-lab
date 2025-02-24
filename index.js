@@ -3,3 +3,5 @@ function introduction(name) {
 }
 
 introduction("Aki");
+
+function introductionWithLanguage(name, phrase) {}
